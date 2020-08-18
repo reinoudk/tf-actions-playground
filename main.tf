@@ -1,3 +1,3 @@
 output "it_works" {
-    value = "true"
+  value = "true"
 }
